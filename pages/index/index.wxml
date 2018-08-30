@@ -1,0 +1,92 @@
+<import src="../common/foot.wxml" />
+
+<view class="container">
+
+  <view class="page-body">
+    <view class="page-section page-section-spacing swiper">
+      <swiper indicator-dots="{{indicatorDots}}"
+        autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+          <swiper-item>
+            <view class="swiper-item">
+              <image src='http://img.17k.com/cmsimg/recommend/2018/08/1535292792.6058.jpg'></image>
+            </view>
+          </swiper-item>
+          <swiper-item>
+            <view class="swiper-item">
+              <image src='http://img.17k.com/cmsimg/recommend/2018/08/1535292890.9041.jpg'></image>
+            </view>
+          </swiper-item>
+          <swiper-item>
+            <view class="swiper-item">
+              <image src='http://img.17k.com/cmsimg/recommend/2018/03/1520930406.6423.jpg'></image>
+            </view>
+          </swiper-item>
+      </swiper>
+    </view>
+    <view class='fenlei'>
+      <view class='fenlei-title'>
+        精品推荐
+      </view>
+      <view class='list'>
+        <view class='list-item'>
+          <image src='https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2681581556,3915277102&fm=58'></image>
+          <view class='name'>遮天小说更新啦，速度进来看啊,不看会后悔哦昂啊</view>
+        </view>
+        <view class='list-item'>
+          <image src='http://img.17k.com/images/bookcover/2017/12977/64/2595425-1504182927000.jpg'></image>
+          <view class='name'>遮天小说更新啦，速度进来看啊,不看会后悔哦昂啊</view>
+        </view>
+        <view class='list-item'>
+          <image src='http://img.17k.com/images/bookcover/2018/14218/71/2843716-1534924837000.jpg'></image>
+          <view class='name'>遮天小说更新啦，速度进来看啊,不看会后悔哦昂啊</view>
+        </view>
+        <view class='list-item'>
+          <image src='http://img.17k.com/images/bookcover/2018/14097/70/2819519-1525782802000_1.jpg'></image>
+          <view class='name'>遮天小说更新啦，速度进来看啊,不看会后悔哦昂啊</view>
+        </view>
+        <view class='list-item'>
+          <image src='http://img.17k.com/images/bookcover/2018/13434/67/2686894-1530181548000_1.jpg'></image>
+          <view class='name'>遮天小说更新啦，速度进来看啊,不看会后悔哦昂啊</view>
+        </view>
+        <view class='list-item'>
+          <image src='http://img.17k.com/images/bookcover/2013/2466/12/493239-1364709925000_1.jpg'></image>
+          <view class='name'>遮天小说更新啦，速度进来看啊,不看会后悔哦昂啊</view>
+        </view>
+      </view>
+    </view>
+     <view class='fenlei'>
+      <view class='fenlei-title'>
+        猜你喜欢
+      </view>
+      <view class='list'>
+        <view class='list-item'>
+          <image src='http://img.17k.com/images/bookcover/2018/14222/71/2844578-1531726527000.jpg'></image>
+          <view class='name'>遮天小说更新啦，速度进来看啊,不看会后悔哦昂啊</view>
+        </view>
+        <view class='list-item'>
+          <image src='http://img.17k.com/images/bookcover/2017/12009/60/2401920-1488340105000.jpg'></image>
+          <view class='name'>遮天小说更新啦，速度进来看啊,不看会后悔哦昂啊</view>
+        </view>
+        <view class='list-item'>
+          <image src='http://img.17k.com/images/bookcover/2018/13946/69/2789348-1520243691000.jpg'></image>
+          <view class='name'>遮天小说更新啦，速度进来看啊,不看会后悔哦昂啊</view>
+        </view>
+        <view class='list-item'>
+          <image src='http://img.17k.com/images/bookcover/2018/14068/70/2813768-1526264270000.jpg'></image>
+          <view class='name'>遮天小说更新啦，速度进来看啊,不看会后悔哦昂啊</view>
+        </view>
+        <view class='list-item'>
+          <image src='http://img.17k.com/images/bookcover/2018/14127/70/2825591-1529491566000.jpg'></image>
+          <view class='name'>遮天小说更新啦，速度进来看啊,不看会后悔哦昂啊</view>
+        </view>
+        <view class='list-item'>
+          <image src='http://img.17k.com/images/bookcover/2018/14394/71/2878863-1534412308000.jpg'></image>
+          <view class='name'>遮天小说更新啦，速度进来看啊,不看会后悔哦昂啊</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='magin-top-10'></view>
+    <template is="foot" />
+
+</view>

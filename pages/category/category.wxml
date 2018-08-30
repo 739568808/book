@@ -1,0 +1,5 @@
+<view class="container">
+  <view class='search'>
+    <input type='text' placeholder='请输入书名或作者名' placeholder-style='font-size:1em;margin-left:5px;'></input>
+  </view>
+</view>

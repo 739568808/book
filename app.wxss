@@ -1,0 +1,24 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  background:#ededf069;
+  position: absolute;
+  font-size: 0.8em;
+  font-family: '微软雅黑'；
+  
+} 
+.magin-top-10{
+  margin-top: 10px;
+}
+.icon-foot{
+  width: 152rpx;
+  height: 23rpx;
+  position: fixed;
+  bottom: -20px;
+}
